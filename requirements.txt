@@ -1,3 +1,2 @@
 pandas==1.0.5
 matplotlib==3.2.2
-dexplot==0.1.4
