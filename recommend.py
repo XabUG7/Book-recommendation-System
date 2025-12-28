@@ -1,5 +1,3 @@
-"""This module contains functions used for books recommendations."""
-
 import pandas as pd
 
 def get_top_n(user_id, df, model,n=10):

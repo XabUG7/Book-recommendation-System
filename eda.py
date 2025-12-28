@@ -1,5 +1,3 @@
-"""This module contains functions used for Exploratory Data Analysis."""
-
 import random
 import dexplot
 import matplotlib.pyplot as plt
